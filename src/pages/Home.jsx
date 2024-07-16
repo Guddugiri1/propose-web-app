@@ -20,12 +20,8 @@ const Home = ({ className = "" }) => (
             <ProposeForm className="hero_text-form mt-4 mt-md-5" />
             <p className="hero_credit">
               developed by{" "}
-              <a
-                href="https://urlwebwala.in"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                @URLWEBWALA
+              <a href="#" target="_blank" rel="noopener noreferrer">
+                @guddu Giri
               </a>
             </p>
           </div>
